@@ -3,7 +3,7 @@ Hi there 👋. I am Guan-Bo Yang, a computer science student in National Taiwan 
 - 🔬 I’m currently learning NLP...
 - 🕸️ I'm currently learning Next.js 13...
 
-### My Status
+<!-- ### My Status -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanboo-yang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
